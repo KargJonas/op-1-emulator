@@ -1,0 +1,19 @@
+.Keyboard {
+  .sharps {
+    .ButtonWide, .Button  {
+      float: left;
+    }
+
+    .inner {
+      background-color: #111;
+    }
+  }
+
+  .naturals {
+    position: absolute;
+    top: 64px;
+    .ButtonLong {
+      float: left;
+    }
+  }
+}
